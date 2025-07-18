@@ -8,6 +8,7 @@ Choosing the right crop for a given location is crucial for successful farming. 
 The dataset used in this project is "Crop_recommendation.csv". It contains the following columns:
 
 N: Nitrogen content in the soil
+
 P: Phosphorus content in the soil
 K: Potassium content in the soil
 temperature: Temperature in Celsius
