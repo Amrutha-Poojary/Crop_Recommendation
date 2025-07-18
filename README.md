@@ -37,11 +37,11 @@ Train-Test Split: The data is split into training and testing sets.
 
 Model Training: Several classification models are trained and evaluated:
 
-  Logistic Regression
+  1. Logistic Regression
 
-  Random Forest Classifier
+  2. Random Forest Classifier
 
-  Gradient Boosting Classifier
+  3. Gradient Boosting Classifier
 
 Model Evaluation: The performance of each model is evaluated using classification reports and confusion matrices.
 
